@@ -638,3 +638,29 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.13-09.50.14:129][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
 [2019.10.13-09.50.14:279][ 38]LogSavePackage: Moving '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Saved/Minimal_DefaultE459732F40881390B76F0F97ED2481C2.tmp' to '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Content/StarterContent/Maps/Minimal_Default.umap'
 [2019.10.13-09.50.14:442][ 38]LogSavePackage: Moving '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Saved/Minimal_Default_BuiltDataF9FC7C314CEFAB551B688BB0243F6C92.tmp' to '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.13-09.51.42:819][917]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.13-09.51.47:415][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.51.53:304][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.52.00:941][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.52.04:418][104]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.13-09.52.29:991][528]LogSlate: Window 'Source Control Login' being destroyed
+[2019.10.13-09.52.34:333][960]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.23/Engine/Content: 'C:/Program Files/Epic Games/UE_4.23/Engine/Content' is outside repository
+[2019.10.13-09.52.34:503][960]EditorErrors: Warning: No assets to check in!
+[2019.10.13-09.52.38:316][328]LogSlate: Window 'Message Log' being destroyed
+[2019.10.13-09.52.38:320][328]LogSlate: Window 'Message Log' being destroyed
+[2019.10.13-09.52.48:538][242]LogMaterial: Display: Missing cached shader map for material HDRI_Epic_Courtyard_Daylight_Mat, compiling. 
+[2019.10.13-09.52.48:540][242]LogMaterial: Warning: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat.HDRI_Epic_Courtyard_Daylight_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.13-09.52.48:540][242]LogMaterial: Display: 	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+[2019.10.13-09.52.48:552][242]LogMaterial: Display: Material /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat.HDRI_Epic_Courtyard_Daylight_Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.10.13-09.52.48:556][242]LogMaterial: Display: Missing cached shader map for material HDRI_Epic_Courtyard_Daylight_Mat, compiling. 
+[2019.10.13-09.52.48:557][242]LogMaterial: Warning: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight_Mat.HDRI_Epic_Courtyard_Daylight_Mat (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.10.13-09.52.48:557][242]LogMaterial: Display: 	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+[2019.10.13-09.52.50:008][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.13-09.52.52:543][629]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.13-09.52.58:293][187]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.13-09.53.04:836][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2019.10.13-09.53.04:987][840]LogSavePackage: Moving '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Saved/Minimal_DefaultC839992E4DB3D0888A968EB9E6EEC889.tmp' to '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.13-09.53.05:146][840]LogSavePackage: Moving '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Saved/Minimal_Default_BuiltData91EF76A84678CFFD9427838F5C023959.tmp' to '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2019.10.13-09.53.36:158][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2019.10.13-09.53.36:306][ 74]LogSavePackage: Moving '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Saved/Minimal_Default1AEC39D64F81D21CD23649B63A9EDBA8.tmp' to '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Content/StarterContent/Maps/Minimal_Default.umap'
+[2019.10.13-09.53.36:481][ 74]LogSavePackage: Moving '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Saved/Minimal_Default_BuiltData86577EEF44076A39975D88BE08659B9B.tmp' to '../../../../../../Users/EvilChairSlayer/Documents/The-Greenboys/GreenboysTester/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
